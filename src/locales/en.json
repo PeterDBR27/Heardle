@@ -1,0 +1,89 @@
+{
+  "languages": {
+    "en": "English",
+    "pt": "Portuguese",
+    "es": "Spanish"
+  },
+  "main": {
+    "title": "Heardle",
+    "spotify": "Spotify",
+    "about": "About",
+    "support": "Support",
+    "howtoplay": "How to Play",
+    "settings": "Settings",
+    "volume": "Turn up the volume and tap to start the track!",
+    "skip": "SKIP",
+    "skipped": "SKIPPED",
+    "submit": "SUBMIT",
+    "giveup": "GIVE UP",
+    "placeholder": "Know it? Search for the artist / title",
+    "placeholder2": "Enter at least 1 letter",
+    "placeholder3": "No results found",
+    "play": "Play",
+    "stop": "Stop",
+    "close": "Close"
+  },
+  "about": {
+    "title": "About",
+    "txt": "Each daily Heardle features a clip from a popular song. Guess in as few tries as possible, and be sure to come back every day for a new song.",
+    "txt2": "All rights reserved to artists/composers.",
+    "spotify": "Songs by Spotify.",
+    "author": "Made by Pedro H. Teles"
+  },
+  "like": {
+    "title": "Support",
+    "txt": "If you enjoyed the game and would like to support me with the server costs to keep the game online, please consider donating!",
+    "btn": "Support us!"
+  },
+  "howtoplay": {
+    "title": "How to Play",
+    "txt": "Listen to the intro, then find the correct artist & title in the list.",
+    "txt2": "Skipped or incorrect attempts unlock more of the intro.",
+    "txt3": "Answer in as few tries as possible and share your score!",
+    "btn": "Play"
+  },
+  "stats": {
+    "title": "Stats",
+    "txt": "The stats started counting from Heardle #8.",
+    "subtitle": "Your score distribution",
+    "correct": "Correct",
+    "percentage": "Correct %",
+    "current": "Current ",
+    "max": " Max Streak"
+  },
+  "settings": {
+    "title": "Settings",
+    "languagestxt": "Change language",
+    "lightmode": "Light",
+    "darkmode": "Dark"
+  },
+  "result": {
+    "listen": "Listen ",
+    "by": " by ",
+    "onspotify": " on Spotify",
+    "btn": "Listen on Spotify",
+    "share": "Share",
+    "copied": "Copied!",
+    "nexttitle": "Next Heardle in",
+    "hours": " hours and ",
+    "minutes": " minutes"
+  },
+  "phrases": {
+    "first": "A virtuoso performance!",
+    "second": "An act of genius!",
+    "third": "You're a star!",
+    "fourth": "What a pro!",
+    "fifth": "You're a winner!",
+    "sixth": "Good result!",
+    "failed": "Unlucky, better luck tomorrow!",
+    "locale": "en",
+    "firstTime": "You got today's Heardle within 2 seconds.",
+    "secondTime": "You got today's Heardle within 4 seconds.",
+    "thirdTime": "You got today's Heardle within 6 seconds.",
+    "fourthTime": "You got today's Heardle within 10 seconds.",
+    "fifthTime": "You got today's Heardle within 14 seconds.",
+    "sixthTime": "You got today's Heardle within 16 seconds.",
+    "failedTime": "You didn't get today's Heardle."
+  }
+}
+  

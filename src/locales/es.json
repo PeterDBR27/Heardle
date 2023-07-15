@@ -1,0 +1,89 @@
+{
+    "languages": {
+        "en": "Inglés",
+        "pt": "Portugués",
+        "es": "Español"
+    },
+    "main": {
+      "title": "Heardle",
+      "spotify": "Spotify",
+      "about": "Sobre esto",
+      "support": "Apoya",
+      "howtoplay": "Cómo Jugar",
+      "settings": "Configuración",
+      "volume": "¡Sube el volumen y toca para iniciar la canción!",
+      "skip": "SALTAR",
+      "skipped": "SALTADO",
+      "submit": "ENVIAR",
+      "giveup": "RENDIRSE",
+      "placeholder": "¿Lo sabes? Buscar el artista / título",
+      "placeholder2": "Introduzca al menos 1 letra",
+      "placeholder3": "No se encontraron resultados",
+      "play": "Tocar",
+      "stop": "Parar",
+      "close": "Cerrar"
+    },
+    "about": {
+      "title": "Sobre esto",
+      "txt": "Cada diario Heardle presenta un clip de una canción popular. Adivina en el menor número de intentos posible, y asegúrate de volver todos los días para una nueva canción.",
+      "txt2": "Todos los derechos reservados a los artistas/compositores.",
+      "spotify": "Canciones de Spotify.",
+      "author": "Hecho por Pedro H. Teles"
+    },
+    "like": {
+      "title": "Apoya",
+      "txt": "Si disfrutaste del juego y te gustaría apoyarme con los costos del servidor para mantener el juego en línea, ¡considera donar!",
+      "btn": "¡Apóyanos!"
+    },
+    "howtoplay": {
+      "title": "Cómo Jugar",
+      "txt": "Escucha la canción, luego encuentra el artista y el título correctos en la lista.",
+      "txt2": "Los intentos omitidos o incorrectos desbloquean más de la canción.",
+      "txt3": "¡Responde en el menor número de intentos posible y comparte tu puntuación!",
+      "btn": "Jugar"
+    },
+    "stats": {
+      "title": "Stats",
+      "txt": "Las estadísticas comenzaron a contar desde Heardle #8.",
+      "subtitle": "Tu distribución de puntuaciones",
+      "correct": "Victorias",
+      "percentage": "Victorias %",
+      "current": "Actual ",
+      "max": " Mayor racha"
+    },
+    "settings": {
+      "title": "Configuración",
+      "languagestxt": "Cambiar idioma",
+      "lightmode": "Claro",
+      "darkmode": "Oscuro"
+    },
+    "result": {
+      "listen": "Escucha ",
+      "by": " de ",
+      "onspotify": " en Spotify",
+      "btn": "Escucha en Spotify",
+      "share": "Compartir",
+      "copied": "¡Copiado!",
+      "nexttitle": "Siguiente Heardle en",
+      "hours": " horas y ",
+      "minutes": " minutos"
+    },
+    "phrases": {
+      "first": "¡Una actuación virtuosa!",
+      "second": "¡Un acto de genialidad!",
+      "third": "¡Eres una estrella!",
+      "fourth": "¡Qué profesional!",
+      "fifth": "¡Eres un ganador!",
+      "sixth": "¡Buen resultado!",
+      "failed": "¡Desafortunada, mejor suerte mañana!",
+      "locale": "en",
+      "firstTime": "Obtuviste el Heardle de hoy en 2 segundos.",
+      "secondTime": "Obtuviste el Heardle de hoy en 4 segundos.",
+      "thirdTime": "Obtuviste el Heardle de hoy en 6 segundos.",
+      "fourthTime": "Obtuviste el Heardle de hoy en 10 segundos.",
+      "fifthTime": "Obtuviste el Heardle de hoy en 14 segundos.",
+      "sixthTime": "Obtuviste el Heardle de hoy en 16 segundos.",
+      "failedTime": "No obtuviste el Heardle de hoy."
+    }
+  }
+    
